@@ -6,7 +6,6 @@
 * [French](README.French.md)
 * [Arabic](README.Arabic.md)
 
-Test
 
 # Introduction
 
